@@ -8,6 +8,7 @@
     "start": "node backend/main.js",
     "dev": "nodemon backend/main.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",

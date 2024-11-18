@@ -6,4 +6,4 @@ import transactionTypeDef from "./transaction-type-def.js";
 
 const mergedTypeDefs = mergeTypeDefs([userTypedef, transactionTypeDef]);
 
-export default mergeTypeDefs;
+export default mergedTypeDefs;
